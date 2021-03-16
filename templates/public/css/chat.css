@@ -1,0 +1,28 @@
+body{
+    font-family: "Times New Roman";
+    background-color: lavender;
+
+}
+.uname{
+    width: 100px;
+    color: #00ae42;
+    background-color: lavender;
+
+    font-size: 20px;
+    font-weight: bold;
+}
+#chatlogs{
+    border: 2px solid brown;
+    width: 200px;
+    border-radius: 10px;
+
+}
+.msg{
+    style=width: 200px;
+    height: 270px;
+    background-color: lavender;
+}
+.la{
+    color: red;
+    font-weight: bold;
+}
